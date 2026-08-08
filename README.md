@@ -95,8 +95,8 @@ principle:   "Build intelligent systems that solve
 ```
 AI / GENERATIVE AI  ████████████████████ 100%
 FULL STACK DEV      ██████████████████░░  90%
-COMPUTER VISION      █████████████████░░░  85%
-CLOUD / DEVOPS       ███████████████░░░░░  70%
+COMPUTER VISION     █████████████████░░░  85%
+CLOUD / DEVOPS      ███████████████░░░░░  70%
 ```
 
 <br/>
